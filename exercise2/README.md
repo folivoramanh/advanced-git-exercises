@@ -1,0 +1,1 @@
+When typing git diff but it showed nothing, tips that you should clone repo again in another direction. Because maybe you clone repo in your core, eg: <C:\User\repo-clone> so that repo would not show as the solution although it was updated

@@ -1,0 +1,1 @@
+Note for this exercise still the same that if you run something and its result not as the same as the solution (does not show anything while the solution has result), you should clone repo in diffirent direction
